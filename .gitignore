@@ -1,7 +1,8 @@
 ## .NET build output
 bin/
 obj/
-publish/
+publish/*
+!publish/AtlasSpriteRevertTool.exe
 [Dd]ebug/
 [Rr]elease/
 x64/
